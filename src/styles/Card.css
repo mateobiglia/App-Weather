@@ -1,0 +1,145 @@
+.container{
+    display: flex;
+    border-radius: 7px;
+    width: 600px;
+    height: 300px;
+    background-color:  #17202A;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.container2{
+    display: flex;
+    align-items: flex-start;
+    
+}
+
+.container3{
+    border-radius: 7px;
+    width: 600px;
+    height: 300px;
+    background-color: #17202A;
+    color: white;
+}
+
+.imagen{
+    width: 200px;
+    height: 300px;
+    border-radius: 7px;
+}
+
+.card-tittle{
+    position: absolute;
+    padding: 20px;
+    color: white;
+
+}
+
+.card-date{
+    position: absolute;
+    padding-left: 20px;
+    margin-top: 50px;
+    color: white;
+}
+
+.card-temp{
+    position: absolute;
+    padding-left: 20px;
+    margin-top: 180px;
+    font-size: 50px;
+    color: white;
+}
+
+.card-desc{
+    position: absolute;
+    padding-left: 20px;
+    margin-top: 240px;
+    color: white;
+}
+
+.card-text{
+    text-align: start;
+    padding: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.card-text1{
+    text-align: start;
+    padding: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.card-text2{
+    text-align: start;
+    padding: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.card-text3{
+    text-align: start;
+    padding: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.card-text4{
+    text-align: start;
+    padding: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.temp-futura{
+    display: flex;
+    font-size: 14px;
+    margin-top: 5px;
+    
+}
+
+.temp-bot{
+    margin-top: 13px;
+}
+
+.temp-bot1{
+    margin-top: 13px;
+}
+
+.temp-bot2{
+    margin-top: 13px;
+}
+
+.icon1{
+    margin-top: 4px;
+}
+
+.icon2{
+    margin-top: 4px;
+}
+
+.icon3{
+    margin-top: 4px;
+}
+
+.temp-futura1{
+    margin-top: 4px;
+    margin-left: 10px;
+}
+
+.temp-futura2{
+    margin-top: 4px;
+    margin-left: 10px;
+}
+
+.temp-futura3{
+    margin-top: 4px;
+    margin-left: 10px;
+}
+
+.titulito{
+    color: white;
+    margin-top: 20px;
+}

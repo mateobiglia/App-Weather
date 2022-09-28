@@ -1,0 +1,51 @@
+body {
+  background-color: #424949 ;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+  
+.divMayor{   
+    height: 60px;
+    background-color: #17202A;   
+  }
+
+.divMenor{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.app-clima{
+  color: white;
+  margin-left: 20px;
+  margin-top: 10px;
+  
+}
+
+.contacto{
+  color: white;
+  margin-right: 100px;
+  margin-top: 15px;
+  width: 90px;
+  height: 30px;
+}
+
+.contacto:hover{
+  background-color: #424949;
+  border-radius: 3px; 
+}
+
+
+.sol{
+  height: 60px;
+  width: 70px;
+  margin-right: 50px;
+  margin-top: 1px;
+}
+
+
+
+  
